@@ -1,0 +1,31 @@
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ python3 q1.py
+12 34 45
+30.333333333333332
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ python3 q2.py 
+Please enter gross income: 100000
+Enter the no. of dependents: 4
+taxable income:
+78000.0
+tax:
+15600.0 
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ python3 q3.py
+Please enter name: Pratham Banga
+Enter gender: M
+Enter cgpa: 8.8
+Enter your course name: CSE
+Enter student Id: 20103015
+['name', 'course name', 'gender', 'SID', 'cgpa']
+student ['Pratham Banga', 'CSE', 'M', 20103015, 8.8]
+student ['Pratham Banga', 'CSE', 'M', 20103015, 8.8]
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ python3 q4.py
+Enter marks of student 1: 78
+Enter marks of student 2: 89
+Enter marks of student 3: 90
+Enter marks of student 4: 79
+Enter marks of student 5: 85
+List:  [78, 89, 90, 79, 85]
+Sorted List:  [78, 79, 85, 89, 90]
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ python3 q5.py
+['Red', 'Green', 'White', 'Pink', 'Yellow']
+['Red', 'Green', 'White', 'Purple', 'Yellow']
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ 
