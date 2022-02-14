@@ -1,0 +1,62 @@
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ python3 assingnment3.py
+Q1
+ENTER ANY STRING: asfhdsgd
+{'a': 1, 's': 2, 'f': 1, 'h': 1, 'd': 2, 'g': 1}
+
+Q2
+ENTER THE DAY: 28
+ENTER THE MONTH OF THE YEAR: 2
+ENTER THE YEAR: 1899
+1 / 3 / 1899
+
+Q3
+Enter elements of a list separated by space 2 4 8
+list:  2 4 8
+[(2, 4), (4, 16), (8, 64)]
+
+
+Q4
+Enter Grade Point: 10
+Your Grade is 'A+' and outstanding performance
+
+Q5
+ABCDEFGHIJK
+ ABCDEFGHI
+  ABCDEFG
+   ABCDE
+    ABC
+     A
+
+Q6
+Enter SID: 20103015
+Enter Name: pratham
+Do you want to enter another student entry(Y or N):y
+Enter SID: 20103016
+Enter Name: savidh
+Do you want to enter another student entry(Y or N):y
+Enter SID: 20104014
+Enter Name: mohit
+Do you want to enter another student entry(Y or N):n
+<a> {20103015: 'pratham', 20103016: 'savidh', 20104014: 'mohit'}
+<b> {20104014: 'mohit', 20103015: 'pratham', 20103016: 'savidh'}
+<c> {20103015: 'pratham', 20103016: 'savidh', 20104014: 'mohit'}
+Search Name with SID: 20103015
+<d> pratham
+Q7
+Enter the no. of terms in series: 7
+Fibonacci sequence:
+0
+1
+1
+2
+3
+5
+8
+AVERAGE OF RESULTANT FIBONACCI SERIES IS 2.857142857142857
+Q8
+<a> {1, 3, 5, 6, 8}
+<b> {3, 6, 8, 9, 13, 17}
+<c> {1, 2, 4, 5}
+<d> {6, 7, 8, 9, 10}
+<e> {10, 7}
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$
