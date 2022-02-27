@@ -1,3 +1,8 @@
+"""
+pratham banga
+20103015
+"""
+
 #Q1
 print("Ans1")
 def TowerOfHanoi(n , from_rod, to_rod, middle_rod):
