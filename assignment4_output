@@ -1,0 +1,58 @@
+spaceship@SPACESHIP:~$ cd /mnt/c/Users/Pratham/Desktop
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ python3 assignment4.py
+python3: can't open file 'assignment4.py': [Errno 2] No such file or directory
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$ python3 assingment4.py
+Ans1
+Move disk 1 from rod A to rod C
+Move disk 2 from rod A to rod B
+Move disk 1 from rod C to rod B
+Move disk 3 from rod A to rod C
+Move disk 1 from rod B to rod A
+Move disk 2 from rod B to rod C
+Move disk 1 from rod A to rod C
+
+Ans2
+Enter the size of pascals triangle 5
+Using iterative procedures
+      1
+     1 1
+    1 2 1
+   1 3 3 1
+  1 4 6 4 1
+
+
+
+Using recurssions
+        1
+      1   1
+    1   2   1
+  1   3   3   1
+1   4   6   4   1
+
+Ans3
+Enter 2 numbers: 12 24
+a. Checking if the quotient and remainder is a callable value or not.
+False
+False
+b. The quotient is zero
+c. Filtered out numbers that are greater than 4 are : [16, 17, 5, 17, 6, 18]
+d. Set: {5, 6, 16, 17, 18}
+e Immutable set: frozenset({16, 17, 18, 5, 6})
+f. Hash value of the max value from the above set: 18
+
+Ans4
+Object created
+The name of the student it Pratham_Banga and SID is 20103015.
+Object destroyed
+
+Ans5
+a. The updated salary of Mehak is 70000
+b. Record of Viren deleted
+Ans6
+Enter the word: helo
+Enter a new meaningful word using the exact same letters to test your friendship: hola
+The letters aren't exact, friendship is fake
+spaceship@SPACESHIP:/mnt/c/Users/Pratham/Desktop$
+
+
+
